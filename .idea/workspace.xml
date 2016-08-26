@@ -45,12 +45,12 @@
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
+          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.024154589">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -60,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/SimilarDoctors.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="89" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="89" />
+              <caret line="71" column="65" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="65" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#531#539#0" expanded="true" />
@@ -717,7 +717,7 @@
       <created>1472239555739</created>
       <option name="number" value="Default" />
       <updated>1472239555739</updated>
-      <workItem from="1472239557689" duration="6099000" />
+      <workItem from="1472239557689" duration="6797000" />
     </task>
     <servers />
   </component>
@@ -754,7 +754,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6099000" />
+    <option name="totallyTimeSpent" value="6797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="23" width="1256" height="770" extended-state="0" />
@@ -844,7 +844,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/SimilarDoctors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="89" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="89" />
+          <caret line="71" column="65" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="65" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#531#539#0" expanded="true" />
@@ -855,12 +855,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024154589">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
           <folding />
         </state>
       </provider>
