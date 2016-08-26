@@ -12,9 +12,6 @@ import java.util.ArrayList;
 
 public class SimilarDoctorsTest extends TestCase {
 
-    Doctors d = new Doctors();
-
-    @Test
     public void testEqualOrBetterDoctors() {
         SimilarDoctors sm = new SimilarDoctors();
 
@@ -45,7 +42,7 @@ public class SimilarDoctorsTest extends TestCase {
         assertThat(Specialization, everyItem(equalTo("Clinical Psychology")));
     }
 
-    @Test
+
     public void testEqualOrBetterDoctorsLocation() {
         SimilarDoctors sm = new SimilarDoctors();
 
@@ -60,9 +57,10 @@ public class SimilarDoctorsTest extends TestCase {
             location.add(d.getLocation());
         }
 
+        assertThat(location, everyItem(equalTo("mountain view")));
         assertThat(ratings, everyItem(greaterThanOrEqualTo(4.0)));
-        assertThat(Specialization, everyItem(equalTo("Allergy & Immunology")));
-        assertThat(Specialization, everyItem(equalTo("mountain view")));
+        assertThat(Specialization, everyItem(equalTo("Microsurgery")));
+
     }
 
 
