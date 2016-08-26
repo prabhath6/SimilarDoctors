@@ -45,6 +45,10 @@ and test it.
 I have used junit and hamcrest matchers to test the business logic. Used to test all the three methods.
 Hamcrest matchers are used to check every element of the returned result.
 
+#### Project
+
+This project is created using maven.
+
 #### Future Scope
 
 If more time was given then, i could have searched for better data and created a database with it. Working with database 
